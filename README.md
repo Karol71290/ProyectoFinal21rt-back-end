@@ -1,4 +1,4 @@
-Nombre de la aplicación: SharelyLinks App
+Name of the app: SharelyLinks App 
 
 
 
