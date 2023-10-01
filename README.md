@@ -1,6 +1,6 @@
 Nombre de la aplicación: SharelyLinks App
 
-## API description
+
 
 - It is a website where users post entries on links.
 
